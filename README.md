@@ -1,2 +1,2 @@
 # HNoPlaceHead
-plugin to disable place head
+plugin to disable put heads
