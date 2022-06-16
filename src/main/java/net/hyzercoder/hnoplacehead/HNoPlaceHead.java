@@ -23,7 +23,7 @@ public final class HNoPlaceHead extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        getLogger().info("§dGod bye");
+        getLogger().info("§dGood bye");
 
     }
 }
