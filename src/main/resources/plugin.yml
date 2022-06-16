@@ -1,0 +1,6 @@
+name: HNoPlaceHead
+version: '${project.version}'
+main: net.hyzercoder.hnoplacehead.HNoPlaceHead
+authors: [ ItsNayzu ]
+description: plugin to disable place head
+website: vk.com/hyzerstudio
