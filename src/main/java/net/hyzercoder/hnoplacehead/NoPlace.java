@@ -7,6 +7,7 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.block.BlockPlaceEvent;
 
 public class NoPlace implements Listener {
+    @EventHandler
     public void noPlace(final BlockPlaceEvent e) {
         val block = e.getBlockPlaced();
         val state = block.getState();
